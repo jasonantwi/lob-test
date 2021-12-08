@@ -1,0 +1,493 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  height:792px;
+  min-width:200px;
+  max-width:612px;
+  margin:auto;
+  background-color:rgba(255, 255, 255, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+  pointer-events:none;
+  z-index:2;
+}
+.Heading{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:0px;
+  width:612px;
+  min-width:612px;
+  height:230px;
+  margin-top:0px;
+  margin-bottom:562px;
+  min-height:230px;
+}
+.Heading-outer{
+  pointer-events:none;
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.Rectangle-1{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:0px;
+  width:612px;
+  min-width:612px;
+  height:230px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:230px;
+  background-color:rgba(0, 75, 108, 1);
+}
+.Rectangle-1-outer{
+  pointer-events:none;
+  z-index:4;
+  position:relative;
+  display:flex;
+}
+.Sempre---BCNC-Logo{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:16px;
+  width:350px;
+  min-width:350px;
+  height:51px;
+  margin-top:-213px;
+  margin-bottom:162px;
+  min-height:51px;
+  content:url(assets/images/Sempre___BCNC_Logo.png);
+}
+.Sempre---BCNC-Logo-outer{
+  pointer-events:none;
+  z-index:5;
+  position:relative;
+  display:flex;
+}
+.Joseph--You-are-elig{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:32px;
+  width:546px;
+  min-width:546px;
+  margin-top:-642px;
+  margin-bottom:575px;
+  min-height:67px;
+  text-align:left;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:26px;
+  line-height:30px;
+}
+.Joseph--You-are-elig-outer{
+  pointer-events:none;
+  z-index:6;
+  position:relative;
+  display:flex;
+}
+.Joseph--You-are-elig-1{
+  color:rgba(125, 205, 241, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:26px;
+  line-height:30px;
+}
+.Joseph--You-are-elig-2{
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:26px;
+  line-height:30px;
+}
+.dad-and-son-1{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:445px;
+  width:167px;
+  min-width:167px;
+  height:438px;
+  margin-top:-562px;
+  margin-bottom:124px;
+  min-height:438px;
+  content:url(assets/images/dad_and_son_1.png);
+}
+.dad-and-son-1-outer{
+  pointer-events:none;
+  z-index:11;
+  position:relative;
+  display:flex;
+}
+.You-deserve-some-sav{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:32px;
+  width:402px;
+  min-width:402px;
+  margin-top:-549px;
+  margin-bottom:436px;
+  min-height:113px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:11.5px;
+  line-height:14px;
+}
+.You-deserve-some-sav-outer{
+  pointer-events:none;
+  z-index:7;
+  position:relative;
+  display:flex;
+}
+.Enrolling-is-easy---{
+  position:relative;
+  z-index:8;
+  pointer-events:none;
+  margin-left:32px;
+  width:407px;
+  min-width:407px;
+  margin-top:-437px;
+  margin-bottom:349px;
+  min-height:88px;
+  text-align:left;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:nullpx;
+  line-height:15px;
+}
+.Enrolling-is-easy----outer{
+  pointer-events:none;
+  z-index:8;
+  position:relative;
+  display:flex;
+}
+.Enrolling-is-easy----1{
+  color:rgba(0, 173, 239, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:25px;
+  line-height:15px;
+}
+.Enrolling-is-easy----2{
+  color:rgba(0, 75, 108, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:25px;
+  line-height:15px;
+}
+.Enrolling-is-easy----3{
+  color:rgba(0, 173, 239, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:25px;
+  line-height:15px;
+}
+.Enrolling-is-easy----4{
+  color:rgba(0, 75, 108, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:25px;
+  line-height:15px;
+}
+.Enrolling-is-easy----5{
+  color:rgba(0, 75, 108, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:11.5px;
+  line-height:15px;
+}
+.Enrolling-is-easy----6{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:12px;
+  line-height:15px;
+}
+.Enrolling-is-easy----7{
+  color:rgba(0, 75, 108, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:11.5px;
+  line-height:15px;
+}
+.Line-1{
+  position:relative;
+  z-index:9;
+  pointer-events:none;
+  margin-left:0px;
+  width:434px;
+  min-width:434px;
+  margin-top:-343px;
+  margin-bottom:343px;
+  min-height:undefinedpx;
+  border:0.75px solid rgba(82, 97, 111, 1);
+}
+.Line-1-outer{
+  pointer-events:none;
+  z-index:9;
+  position:relative;
+  display:flex;
+}
+.Here-s-how-it-works-{
+  position:relative;
+  z-index:12;
+  pointer-events:none;
+  margin-left:124px;
+  width:186px;
+  min-width:186px;
+  margin-top:-325px;
+  margin-bottom:300px;
+  min-height:25px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  color:rgba(0, 173, 239, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:21px;
+  line-height:24px;
+}
+.Here-s-how-it-works--outer{
+  pointer-events:none;
+  z-index:12;
+  position:relative;
+  display:flex;
+}
+.You-ll-get-your-own-{
+  position:relative;
+  z-index:16;
+  pointer-events:none;
+  margin-left:77px;
+  width:329px;
+  min-width:329px;
+  margin-top:-286px;
+  margin-bottom:243px;
+  min-height:43px;
+  text-align:left;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:11px;
+  line-height:13px;
+}
+.You-ll-get-your-own--outer{
+  pointer-events:none;
+  z-index:16;
+  position:relative;
+  display:flex;
+}
+.You-ll-get-your-own--1{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:11px;
+  line-height:13px;
+}
+.You-ll-get-your-own--2{
+  color:rgba(0, 75, 108, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:11px;
+  line-height:13px;
+}
+.Icon-1-1{
+  position:relative;
+  z-index:13;
+  pointer-events:none;
+  margin-left:32px;
+  width:34px;
+  min-width:34px;
+  height:34px;
+  margin-top:-281px;
+  margin-bottom:247px;
+  min-height:34px;
+  content:url(assets/images/Icon_1_1.png);
+}
+.Icon-1-1-outer{
+  pointer-events:none;
+  z-index:13;
+  position:relative;
+  display:flex;
+}
+.Show-your-discount-I{
+  position:relative;
+  z-index:17;
+  pointer-events:none;
+  margin-left:77px;
+  width:329px;
+  min-width:329px;
+  margin-top:-235px;
+  margin-bottom:192px;
+  min-height:43px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:11px;
+  line-height:13px;
+}
+.Show-your-discount-I-outer{
+  pointer-events:none;
+  z-index:17;
+  position:relative;
+  display:flex;
+}
+.Icon-2-1{
+  position:relative;
+  z-index:14;
+  pointer-events:none;
+  margin-left:32px;
+  width:34px;
+  min-width:34px;
+  height:34px;
+  margin-top:-230px;
+  margin-bottom:196px;
+  min-height:34px;
+  content:url(assets/images/Icon_2_1.png);
+}
+.Icon-2-1-outer{
+  pointer-events:none;
+  z-index:14;
+  position:relative;
+  display:flex;
+}
+.Pick-up-your-Lantus-{
+  position:relative;
+  z-index:18;
+  pointer-events:none;
+  margin-left:77px;
+  width:329px;
+  min-width:329px;
+  margin-top:-179px;
+  margin-bottom:136px;
+  min-height:43px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:11px;
+  line-height:13px;
+}
+.Pick-up-your-Lantus--outer{
+  pointer-events:none;
+  z-index:18;
+  position:relative;
+  display:flex;
+}
+.Icon-3-1{
+  position:relative;
+  z-index:15;
+  pointer-events:none;
+  margin-left:32px;
+  width:34px;
+  min-width:34px;
+  height:34px;
+  margin-top:-174px;
+  margin-bottom:140px;
+  min-height:34px;
+  content:url(assets/images/Icon_3_1.png);
+}
+.Icon-3-1-outer{
+  pointer-events:none;
+  z-index:15;
+  position:relative;
+  display:flex;
+}
+.Line-2{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:0px;
+  width:434px;
+  min-width:434px;
+  margin-top:-124px;
+  margin-bottom:124px;
+  min-height:undefinedpx;
+  border:0.75px solid rgba(82, 97, 111, 1);
+}
+.Line-2-outer{
+  pointer-events:none;
+  z-index:10;
+  position:relative;
+  display:flex;
+}
+.We-re-required-to-te{
+  position:relative;
+  z-index:19;
+  pointer-events:none;
+  margin-left:6px;
+  width:600px;
+  min-width:600px;
+  margin-top:-120px;
+  margin-bottom:5px;
+  min-height:115px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:6px;
+  line-height:7px;
+}
+.We-re-required-to-te-outer{
+  pointer-events:none;
+  z-index:19;
+  position:relative;
+  display:flex;
+}
